@@ -1,6 +1,10 @@
 Pyjuggling: The Python Juggling Library!
 ================================================
 
+.. image:: https://badges.gitter.im/PacketPerception/pyjuggling.svg
+   :alt: Join the chat at https://gitter.im/PacketPerception/pyjuggling
+   :target: https://gitter.im/PacketPerception/pyjuggling?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 |build| |docs| |coverage| |downloads| |license|
 
 .. |coverage| image:: https://img.shields.io/coveralls/PacketPerception/pyjuggling/master.svg
